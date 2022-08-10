@@ -1,6 +1,7 @@
 # fanSimulation
 
 Program:
+
     Assumptions:
     - fan is already plugged in, and is at speed 0 (off).
     - there are two input options.
